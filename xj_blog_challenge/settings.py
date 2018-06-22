@@ -26,7 +26,7 @@ SECRET_KEY = 'n2vc@dl=!0sw^ko9oq@dthic76-&0&kqb)0zwg*k=hd%_ztng$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["xj-blog-challenge-johnpooch.c9users.io"]
+ALLOWED_HOSTS = ["xj-blog-challenge-johnpooch.c9users.io", 'xj-blog-challenge.herokuapp.com']
 
 
 # Application definition
