@@ -1,0 +1,1 @@
+web: gunicorn xj_blog_challenege.wsgi:application
